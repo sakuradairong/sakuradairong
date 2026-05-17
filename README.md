@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td><b>網站</b></td>
-    <td><a href="https://www.rainycy.top">rainycy.com</a></td>
+    <td><a href="https://www.rainycy.top">rainycy.top</a></td>
   </tr>
 </table>
 
