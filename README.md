@@ -14,6 +14,29 @@
 
 ---
 
+### 🧑 關於
+
+<table>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td>
+      <a href="https://github.com/sakuradairong">sakuradairong</a>
+      <strong>（當前）</strong>
+    </td>
+  </tr>
+  <tr>
+    <td><b>舊帳號</b></td>
+    <td>
+      <a href="https://github.com/RainySY">RainySY</a>
+      <code>@RainySY</code> — 137 repos · 12 followers
+    </td>
+  </tr>
+  <tr>
+    <td><b>網站</b></td>
+    <td><a href="https://www.rainycy.com">rainycy.com</a></td>
+  </tr>
+</table>
+
 ### 🤖 AstrBot 插件
 
 <table>
