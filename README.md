@@ -37,6 +37,23 @@
   </tr>
 </table>
 
+---
+
+### 📊 GitHub 統計
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakuradairong&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakuradairong&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakuradairong&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakuradairong&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakuradairong&theme=tokyonight&utcOffset=8" height="160"/>
+</div>
+
+---
+
 ### 🤖 AstrBot 插件
 
 <table>
@@ -115,11 +132,6 @@
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakuradairong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuradairong&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
