@@ -1,227 +1,126 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sakuradairong&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <h1>RainySY</h1>
+  <p><code>@sakuradairong</code> · 实用自动化 · 本地 AI · 工具向工程</p>
+  <p>
+    <a href="https://github.com/sakuradairong"><img src="https://img.shields.io/github/followers/sakuradairong?label=Followers&style=flat-square&color=0f766e" alt="Followers"/></a>
+    <a href="https://github.com/sakuradairong?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-40-0f766e?style=flat-square" alt="Public repos"/></a>
+    <img src="https://komarev.com/ghpvc/?username=sakuradairong&style=flat-square&color=0f766e&label=Profile%20views" alt="Profile views"/>
+  </p>
+  <p>
+    <a href="https://github.com/sakuradairong">GitHub</a>
+    ·
+    <a href="https://sakuradairong.github.io">Blog</a>
+    ·
+    <a href="https://github.com/RainySY">旧账号 @RainySY</a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/sakuradairong">
-    <img src="https://img.shields.io/github/followers/sakuradairong?style=for-the-badge&logo=github&label=Followers&color=6e5494"/>
-  </a>
-  <a href="https://github.com/sakuradairong?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-32-blue?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sakuradairong&style=for-the-badge&color=blueviolet&label=Visits"/>
-</p>
+---
+
+### 关于我
+
+做小而有用的系统：本地 AI 网关、可复用 agent 配置、Android 备份、游戏服管理、AstrBot 插件，以及 Cloudflare / R2 / 个人基础设施脚本。
+
+偏好能直接落进日常工作流的东西——能备份、能调度、能接模型、能省步骤。
+
+```text
+Focus   AI agents · local models · backup · automation plugins · desktop utilities
+Stack   Python · TypeScript · Kotlin · Go · C# · Shell · Cloudflare
+```
 
 ---
 
-### About
+### 精选项目
 
-RainySY / `sakuradairong` builds practical automation tools, AI agent workflows, Android backup utilities, game server tooling, and chatbot plugins.
-
-I usually work on small, useful systems that solve real workflow problems: local AI gateways, reusable agent configs, backup tools, server managers, AstrBot plugins, Cloudflare/R2 helpers, and personal infrastructure scripts.
-
-<table>
-  <tr>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/sakuradairong">sakuradairong</a></td>
-  </tr>
-  <tr>
-    <td><b>Name</b></td>
-    <td>RainySY</td>
-  </tr>
-  <tr>
-    <td><b>Website</b></td>
-    <td><a href="https://www.rainycy.top">rainycy.top</a></td>
-  </tr>
-  <tr>
-    <td><b>Old account</b></td>
-    <td><a href="https://github.com/RainySY">RainySY</a> <code>@RainySY</code></td>
-  </tr>
-</table>
+| 项目 | 说明 | ☆ |
+| --- | --- | ---: |
+| [omp-config](https://github.com/sakuradairong/omp-config) | Oh My Pi 配置合集：可复用 agent 配置、模型覆盖、hooks、skills | 38 |
+| [SubConverter-Extended](https://github.com/sakuradairong/SubConverter-Extended) | 基于 Aethersailor/SubConverter-Extended 的扩展构建 | 10 |
+| [android-backup-gui](https://github.com/sakuradairong/android-backup-gui) | Android 备份恢复：restic、WebDAV/SMB、断点续传、Root Shell | 5 |
+| [local-fusion-gateway](https://github.com/sakuradairong/local-fusion-gateway) | 本地 OpenAI 兼容多模型融合网关，带受控 code-research 工具 | — |
+| [7dtd-server-manager](https://github.com/sakuradairong/7dtd-server-manager) | 7 Days to Die 专用服桌面管理（Telnet / RCON） | — |
+| [XUnity.AutoTranslator.AIUniversal](https://github.com/sakuradairong/XUnity.AutoTranslator.AIUniversal) | XUnity.AutoTranslator 通用 AI 翻译插件（OpenAI 兼容 API） | — |
 
 ---
 
-### Current Focus
+### 项目地图
 
-- AI agent workflows, local model tooling, and reusable development configs
-- Android backup and restore tools with remote storage support
-- AstrBot plugins and chat automation utilities
-- Game server management tools and practical desktop utilities
-- Cloudflare, R2, Go, TypeScript, Kotlin, Python, and shell automation
+<details>
+<summary><b>AI Agents & 本地模型</b></summary>
 
----
+| 项目 | 说明 |
+| --- | --- |
+| [omp-config](https://github.com/sakuradairong/omp-config) | OMP agent 配置、hooks、skills |
+| [local-fusion-gateway](https://github.com/sakuradairong/local-fusion-gateway) | 本地多模型融合网关 |
+| [pi-model-selector](https://github.com/sakuradairong/pi-model-selector) | pi 的交互式模型选择扩展 |
+| [pi-moa](https://github.com/sakuradairong/pi-moa) | pi / agent 相关工具 |
 
-### Highlighted Projects
+</details>
 
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/omp-config">omp-config</a></b></td>
-    <td>Oh My Pi configuration collection with reusable agent configs, model overrides, hooks, and skills.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/local-fusion-gateway">local-fusion-gateway</a></b></td>
-    <td>Local OpenAI-compatible multi-model fusion gateway with controlled code-research tools.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/android-backup-gui">android-backup-gui</a></b></td>
-    <td>Android backup and restore tool with restic, WebDAV/SMB remote repositories, resume support, and Root Shell.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/7dtd-server-manager">7dtd-server-manager</a></b></td>
-    <td>Desktop management tool for 7 Days to Die dedicated servers via Telnet/RCON.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/SubConverter-Extended">SubConverter-Extended</a></b></td>
-    <td>Extended SubConverter build based on Aethersailor/SubConverter-Extended.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/XUnity.AutoTranslator.AIUniversal">XUnity.AutoTranslator.AIUniversal</a></b></td>
-    <td>Universal AI translation plugin for XUnity.AutoTranslator, supporting OpenAI-compatible APIs.</td>
-  </tr>
-</table>
+<details>
+<summary><b>Android & 备份</b></summary>
 
----
+| 项目 | 说明 |
+| --- | --- |
+| [android-backup-gui](https://github.com/sakuradairong/android-backup-gui) | Kotlin Android 备份恢复 GUI |
+| [backup_script](https://github.com/sakuradairong/backup_script) | 支持远程存储的备份脚本 |
+| [normalize-filenames](https://github.com/sakuradairong/normalize-filenames) | 清理 NFD/NFC 文件名重复 |
+| [samba](https://github.com/sakuradairong/samba) | Samba Android arm64 静态构建产物 |
 
-### Project Map
+</details>
 
-#### AI Agents & Local AI
+<details>
+<summary><b>Chatbots & 自动化插件</b></summary>
 
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/omp-config">omp-config</a></b></td>
-    <td>Reusable OMP agent configuration, hooks, model overrides, and skills.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/local-fusion-gateway">local-fusion-gateway</a></b></td>
-    <td>Local OpenAI-compatible gateway for multi-model fusion and controlled code research.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/pi-model-selector">pi-model-selector</a></b></td>
-    <td>Interactive provider-focused model selector extension for pi.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/pi-moa">pi-moa</a></b></td>
-    <td>JavaScript project in the pi / agent tooling area.</td>
-  </tr>
-</table>
+| 项目 | 说明 |
+| --- | --- |
+| [astrbot_plugin_fishing](https://github.com/sakuradairong/astrbot_plugin_fishing) | AstrBot 钓鱼互动插件 |
+| [astrbot_plugin_pubg](https://github.com/sakuradairong/astrbot_plugin_pubg) | AstrBot PUBG 战绩查询 |
+| [astrbot_plugin_Gitparser](https://github.com/sakuradairong/astrbot_plugin_Gitparser) | GitHub 仓库解析与事件通知 |
+| [astrbot_plugin_linuxdo](https://github.com/sakuradairong/astrbot_plugin_linuxdo) | linux.do 链接预览（绕过 CF + 截图） |
+| [astrbot-plugin-dev](https://github.com/sakuradairong/astrbot-plugin-dev) | AstrBot 插件开发工作区 |
 
-#### Android & Backup
+</details>
 
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/android-backup-gui">android-backup-gui</a></b></td>
-    <td>Android backup and restore GUI built with Kotlin.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/backup_script">backup_script</a></b></td>
-    <td>Backup script with remote storage support.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/normalize-filenames">normalize-filenames</a></b></td>
-    <td>Removes duplicate files caused by NFD/NFC Unicode filename differences.</td>
-  </tr>
-</table>
+<details>
+<summary><b>桌面 / 游戏 / 实用工具</b></summary>
 
-#### Chatbots & Automation Plugins
+| 项目 | 说明 |
+| --- | --- |
+| [7dtd-server-manager](https://github.com/sakuradairong/7dtd-server-manager) | 七日杀专用服管理 |
+| [XUnity.AutoTranslator.AIUniversal](https://github.com/sakuradairong/XUnity.AutoTranslator.AIUniversal) | 游戏 AI 翻译插件 |
+| [minimaximage](https://github.com/sakuradairong/minimaximage) | Minimax 图像生成 CLI / GUI |
+| [OfficeTap](https://github.com/sakuradairong/OfficeTap) | Excel VSTO 工作簿标签任务窗格 |
+| [office-data-matcher](https://github.com/sakuradairong/office-data-matcher) | Office 数据匹配工具 |
+| [go-123pan-pic](https://github.com/sakuradairong/go-123pan-pic) | 123 盘图片上传 CLI |
+| [smartstrm-cleanroom](https://github.com/sakuradairong/smartstrm-cleanroom) | Go 实现的 STRM 自动化服务 |
 
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/astrbot_plugin_fishing">astrbot_plugin_fishing</a></b></td>
-    <td>AstrBot fishing interaction plugin with fish types and ranking support.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/astrbot_plugin_pubg">astrbot_plugin_pubg</a></b></td>
-    <td>AstrBot plugin for PUBG player stats lookup.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/astrbot_plugin_Gitparser">astrbot_plugin_Gitparser</a></b></td>
-    <td>AstrBot plugin for GitHub repository parsing and event notifications.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/astrbot_plugin_linuxdo">astrbot_plugin_linuxdo</a></b></td>
-    <td>Detects linux.do links, bypasses Cloudflare, and sends screenshot plus text preview.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/astrbot-plugin-dev">astrbot-plugin-dev</a></b></td>
-    <td>AstrBot plugin development workspace.</td>
-  </tr>
-</table>
+</details>
 
-#### Desktop, Game & Utility Tools
+<details>
+<summary><b>Web / Cloud / 个人基础设施</b></summary>
 
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/7dtd-server-manager">7dtd-server-manager</a></b></td>
-    <td>Desktop management tool for 7 Days to Die dedicated servers.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/XUnity.AutoTranslator.AIUniversal">XUnity.AutoTranslator.AIUniversal</a></b></td>
-    <td>AI translation plugin for XUnity.AutoTranslator.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/minimaximage">minimaximage</a></b></td>
-    <td>Minimax image generation CLI and cross-platform GUI.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/office-data-matcher">office-data-matcher</a></b></td>
-    <td>Office data matching tool.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/go-123pan-pic">go-123pan-pic</a></b></td>
-    <td>123pan image upload CLI.</td>
-  </tr>
-</table>
+| 项目 | 说明 |
+| --- | --- |
+| [r2-explorer-template](https://github.com/sakuradairong/r2-explorer-template) | Cloudflare R2 文件浏览器模板 |
+| [typix](https://github.com/sakuradairong/typix) | TypeScript 工具集 |
+| [deepseek-monitor](https://github.com/sakuradairong/deepseek-monitor) | DeepSeek API 状态监控 |
+| [rime-config](https://github.com/sakuradairong/rime-config) | 基于雾凇拼音的个人 Rime 配置 |
+| [rime-context-filter](https://github.com/sakuradairong/rime-context-filter) | Rime 上下文调频过滤器 |
+| [sakuradairong.github.io](https://github.com/sakuradairong/sakuradairong.github.io) | GitHub Pages 博客 |
+| [picture](https://github.com/sakuradairong/picture) | 个人图床仓库 |
 
-#### Web, Cloud & Personal Infrastructure
-
-<table>
-  <tr>
-    <td width="300"><b><a href="https://github.com/sakuradairong/r2-explorer-template">r2-explorer-template</a></b></td>
-    <td>Cloudflare R2 file explorer template.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/typix">typix</a></b></td>
-    <td>TypeScript utility toolkit.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/deepseek-monitor">deepseek-monitor</a></b></td>
-    <td>DeepSeek API status monitoring service.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/rime-config">rime-config</a></b></td>
-    <td>Personal Rime input method configuration based on rime-ice.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/rime-context-filter">rime-context-filter</a></b></td>
-    <td>Rime context-aware candidate ranking filter.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/sakuradairong.github.io">sakuradairong.github.io</a></b></td>
-    <td>GitHub Pages personal homepage.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/sakuradairong/picture">picture</a></b></td>
-    <td>Personal image hosting repository.</td>
-  </tr>
-</table>
+</details>
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakuradairong&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakuradairong&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakuradairong&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakuradairong&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakuradairong&theme=tokyonight&utcOffset=8" height="160"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakuradairong&theme=transparent" width="100%" alt="Profile details"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakuradairong&theme=transparent" height="155" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakuradairong&theme=transparent" height="155" alt="Most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakuradairong&theme=transparent" height="155" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakuradairong&theme=transparent&utcOffset=8" height="155" alt="Productive time"/>
 </div>
