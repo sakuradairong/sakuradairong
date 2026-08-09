@@ -9,6 +9,8 @@
   <p>
     <a href="https://github.com/sakuradairong">GitHub</a>
     ·
+    <a href="https://www.rainycy.top">Website</a>
+    ·
     <a href="https://sakuradairong.github.io">Blog</a>
     ·
     <a href="https://github.com/RainySY">旧账号 @RainySY</a>
