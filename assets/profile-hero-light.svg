@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">RainySY — Rainy Workshop</title>
+  <desc id="desc">Build small. Make it useful. A personal workshop for local AI, tools, and automation, with a line-drawn rain cloud and quiet ripples.</desc>
+  <rect x="1" y="1" width="1198" height="398" rx="18" fill="#F5F3EB" stroke="#D8DDD1" stroke-width="2"/>
+  <path d="M48 68H1152M48 348H1152" stroke="#D8DDD1"/>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#526B5C">
+    <text x="48" y="42">RAINY WORKSHOP</text>
+    <text x="1152" y="42" text-anchor="end">PERSONAL PROJECTS</text>
+  </g>
+
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif" fill="#183D30">
+    <text x="43" y="211" font-size="112" font-weight="700" letter-spacing="-5">RainySY<tspan fill="#6F9574">.</tspan></text>
+    <text x="48" y="258" font-size="27" font-weight="400" letter-spacing="-.4">Build small. Make it useful.</text>
+  </g>
+  <text x="49" y="307" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.8" fill="#526B5C">LOCAL AI / TOOLS / AUTOMATION</text>
+
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M865 192C844 192 829 177 829 158C829 139 844 124 863 124C867 98 889 82 914 86C934 89 949 103 954 121C963 115 974 113 985 116C1000 120 1011 132 1014 147H1022C1035 147 1045 157 1045 170C1045 183 1035 192 1022 192H989" stroke="#183D30" stroke-width="3"/>
+    <path d="M888 192H960" stroke="#183D30" stroke-width="3"/>
+
+    <path d="M884 217L875 239M933 208L924 230M981 217L972 239M1027 208L1018 230M907 251L898 273M1003 251L994 273" stroke="#6F9574" stroke-width="3"/>
+    <path d="M953 247C953 247 946 257 946 262C946 266 949 269 953 269C957 269 960 266 960 262C960 257 953 247Z" fill="#183D30"/>
+
+    <ellipse cx="953" cy="300" rx="109" ry="24" stroke="#C5D2C1" stroke-width="1.5"/>
+    <ellipse cx="953" cy="300" rx="73" ry="16" stroke="#A3B99D" stroke-width="1.5"/>
+    <ellipse cx="953" cy="300" rx="34" ry="7" stroke="#6F9574" stroke-width="1.5"/>
+  </g>
+
+  <text x="48" y="378" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing=".7" fill="#526B5C">@sakuradairong</text>
+  <circle cx="1147" cy="373" r="4" fill="#6F9574"/>
+</svg>
